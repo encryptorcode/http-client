@@ -1,4 +1,4 @@
-package com.encryptorcode.httpclient;
+package io.github.encryptorcode.httpclient;
 
 import okhttp3.ResponseBody;
 

@@ -1,4 +1,4 @@
-package com.encryptorcode.httpclient;
+package io.github.encryptorcode.httpclient;
 
 class KeyValue<K,V>{
     private K key;
